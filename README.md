@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Matt Delventhal. I'm a quantitative researcher with formal training in economics.
-- I'm using GitHub to host my website and a few apps related to my research projects.
+- I'm using GitHub to host my personal website files and a few apps related to my research projects.
 - Please visit my website, [mattdelventhal.com](http://mattdelventhal.com "My website"), to learn more!
 
 <!---
